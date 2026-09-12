@@ -1,0 +1,245 @@
+[23-Jun-2025 20:58:32 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/memf3243/public_html/login.php on line 11
+[23-Jun-2025 21:01:51 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/memf3243/public_html/login.php on line 11
+[23-Jun-2025 21:12:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/memf3243/public_html/kuis.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/memf3243/public_html/kuis.php on line 30
+[23-Jun-2025 21:12:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/memf3243/public_html/kuis.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/memf3243/public_html/kuis.php on line 30
+[23-Jun-2025 21:13:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/memf3243/public_html/kuis.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/memf3243/public_html/kuis.php on line 30
+[23-Jun-2025 21:14:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/memf3243/public_html/kuis.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/memf3243/public_html/kuis.php on line 30
+[23-Jun-2025 21:15:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/memf3243/public_html/input_soal.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/memf3243/public_html/input_soal.php on line 113
+[23-Jun-2025 21:18:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/memf3243/public_html/kuis.php on line 17
+[23-Jun-2025 21:27:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/memf3243/public_html/input_soal.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/memf3243/public_html/input_soal.php on line 113
+[23-Jun-2025 21:42:46 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/memf3243/public_html/hafalan.php:7) in /home/memf3243/public_html/hafalan.php on line 8
+[23-Jun-2025 21:47:38 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/memf3243/public_html/hafalan.php:7) in /home/memf3243/public_html/hafalan.php on line 8
+[23-Jun-2025 21:49:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/memf3243/public_html/hafalan.php on line 534
+[23-Jun-2025 21:50:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/memf3243/public_html/hafalan.php on line 534
+[29-Jun-2025 14:40:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/memf3243/public_html/input_soal.php on line 419
+[03-Jul-2025 15:18:31 Asia/Jakarta] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/memf3243/public_html/kuis.php on line 91
+[03-Jul-2025 15:19:56 Asia/Jakarta] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/memf3243/public_html/kuis.php on line 91
+[03-Jul-2025 15:25:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/memf3243/public_html/kuis.php on line 26
+[03-Jul-2025 15:25:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/memf3243/public_html/kuis.php on line 26
+[03-Jul-2025 15:48:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/memf3243/public_html/input_soal.php on line 27
+[04-Jul-2025 05:43:27 Asia/Jakarta] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/memf3243/public_html/kuis.php on line 91
+[04-Jul-2025 05:45:00 Asia/Jakarta] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/memf3243/public_html/kuis.php on line 86
+[04-Jul-2025 05:47:07 Asia/Jakarta] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/memf3243/public_html/kuis.php on line 86
+[04-Jul-2025 05:47:12 Asia/Jakarta] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/memf3243/public_html/kuis.php on line 86
+[04-Jul-2025 05:47:18 Asia/Jakarta] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/memf3243/public_html/kuis.php on line 86
+[04-Jul-2025 05:53:23 Asia/Jakarta] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/memf3243/public_html/kuis.php on line 108
+[04-Jul-2025 05:53:28 Asia/Jakarta] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/memf3243/public_html/kuis.php on line 108
+[04-Jul-2025 05:53:31 Asia/Jakarta] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/memf3243/public_html/kuis.php on line 108
+[04-Jul-2025 05:53:43 Asia/Jakarta] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/memf3243/public_html/kuis.php on line 108
+[04-Jul-2025 05:53:51 Asia/Jakarta] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/memf3243/public_html/kuis.php on line 108
+[04-Jul-2025 05:59:58 Asia/Jakarta] Error saving points: Field 'level' doesn't have a default value
+[04-Jul-2025 06:00:02 Asia/Jakarta] Error saving points: Field 'level' doesn't have a default value
+[04-Jul-2025 06:04:29 Asia/Jakarta] Error saving points: Field 'level' doesn't have a default value
+[04-Jul-2025 06:04:34 Asia/Jakarta] Error saving points: Field 'level' doesn't have a default value
+[04-Jul-2025 06:06:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/memf3243/public_html/kuis.php on line 117
+[04-Jul-2025 06:07:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/memf3243/public_html/kuis.php on line 130
+[04-Jul-2025 06:08:27 Asia/Jakarta] User  Answer: C
+[04-Jul-2025 06:08:27 Asia/Jakarta] Correct Answer: C
+[04-Jul-2025 06:08:27 Asia/Jakarta] Error saving points: Field 'level' doesn't have a default value
+[04-Jul-2025 06:08:32 Asia/Jakarta] User  Answer: B
+[04-Jul-2025 06:08:32 Asia/Jakarta] Correct Answer: D
+[04-Jul-2025 06:08:32 Asia/Jakarta] Error saving points: Field 'level' doesn't have a default value
+[04-Jul-2025 06:18:23 Asia/Jakarta] User  Answer: C
+[04-Jul-2025 06:18:23 Asia/Jakarta] Correct Answer: C
+[04-Jul-2025 06:18:23 Asia/Jakarta] Error saving points: Field 'level' doesn't have a default value
+[04-Jul-2025 06:18:26 Asia/Jakarta] User  Answer: B
+[04-Jul-2025 06:18:26 Asia/Jakarta] Correct Answer: D
+[04-Jul-2025 06:18:26 Asia/Jakarta] Error saving points: Field 'level' doesn't have a default value
+[04-Jul-2025 06:20:28 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:20:35 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:20:39 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:20:39 Asia/Jakarta] User  Answer: C
+[04-Jul-2025 06:20:39 Asia/Jakarta] Correct Answer: C
+[04-Jul-2025 06:20:39 Asia/Jakarta] Error saving points: Field 'level' doesn't have a default value
+[04-Jul-2025 06:20:39 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:20:43 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:20:43 Asia/Jakarta] User  Answer: B
+[04-Jul-2025 06:20:43 Asia/Jakarta] Correct Answer: D
+[04-Jul-2025 06:20:43 Asia/Jakarta] Error saving points: Field 'level' doesn't have a default value
+[04-Jul-2025 06:20:43 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:24:20 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:24:25 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:24:28 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:24:28 Asia/Jakarta] User  Answer: C
+[04-Jul-2025 06:24:28 Asia/Jakarta] Correct Answer: C
+[04-Jul-2025 06:24:28 Asia/Jakarta] Error saving points: Field 'level' doesn't have a default value
+[04-Jul-2025 06:24:28 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:28:54 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:28:59 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:28:59 Asia/Jakarta] User  Answer: A
+[04-Jul-2025 06:28:59 Asia/Jakarta] Correct Answer: A
+[04-Jul-2025 06:28:59 Asia/Jakarta] Error saving points: Column 'username' cannot be null
+[04-Jul-2025 06:28:59 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:29:03 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:29:03 Asia/Jakarta] User  Answer: B
+[04-Jul-2025 06:29:03 Asia/Jakarta] Correct Answer: B
+[04-Jul-2025 06:29:03 Asia/Jakarta] Error saving points: Column 'username' cannot be null
+[04-Jul-2025 06:30:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/memf3243/public_html/kuis.php on line 379
+[04-Jul-2025 06:31:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/memf3243/public_html/kuis.php on line 376
+[04-Jul-2025 06:31:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/memf3243/public_html/kuis.php on line 378
+[04-Jul-2025 06:32:23 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:32:33 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:32:33 Asia/Jakarta] User  Answer: A
+[04-Jul-2025 06:32:33 Asia/Jakarta] Correct Answer: A
+[04-Jul-2025 06:32:33 Asia/Jakarta] Error saving points: Column 'username' cannot be null
+[04-Jul-2025 06:32:35 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:32:38 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:32:38 Asia/Jakarta] User  Answer: B
+[04-Jul-2025 06:32:38 Asia/Jakarta] Correct Answer: B
+[04-Jul-2025 06:32:38 Asia/Jakarta] Error saving points: Column 'username' cannot be null
+[04-Jul-2025 06:32:44 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:32:53 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:33:00 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:33:09 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:33:09 Asia/Jakarta] User  Answer: B
+[04-Jul-2025 06:33:09 Asia/Jakarta] Correct Answer: A
+[04-Jul-2025 06:33:09 Asia/Jakarta] Error saving points: Column 'username' cannot be null
+[04-Jul-2025 06:33:09 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:33:12 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:33:12 Asia/Jakarta] User  Answer: C
+[04-Jul-2025 06:33:12 Asia/Jakarta] Correct Answer: B
+[04-Jul-2025 06:33:12 Asia/Jakarta] Error saving points: Column 'username' cannot be null
+[04-Jul-2025 06:35:02 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:35:08 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:35:25 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:35:33 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:35:33 Asia/Jakarta] User  Answer: A
+[04-Jul-2025 06:35:33 Asia/Jakarta] Correct Answer: A
+[04-Jul-2025 06:35:33 Asia/Jakarta] Error saving points: Column 'username' cannot be null
+[04-Jul-2025 06:35:33 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:35:38 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:35:38 Asia/Jakarta] User  Answer: B
+[04-Jul-2025 06:35:38 Asia/Jakarta] Correct Answer: B
+[04-Jul-2025 06:35:38 Asia/Jakarta] Error saving points: Column 'username' cannot be null
+[04-Jul-2025 06:38:35 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:38:39 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:38:39 Asia/Jakarta] User  Answer: A
+[04-Jul-2025 06:38:39 Asia/Jakarta] Correct Answer: A
+[04-Jul-2025 06:38:39 Asia/Jakarta] Error saving points: Column 'username' cannot be null
+[04-Jul-2025 06:38:39 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:38:43 Asia/Jakarta] User  not found with ID: 12
+[04-Jul-2025 06:38:43 Asia/Jakarta] User  Answer: B
+[04-Jul-2025 06:38:43 Asia/Jakarta] Correct Answer: B
+[04-Jul-2025 06:38:43 Asia/Jakarta] Error saving points: Column 'username' cannot be null
+[04-Jul-2025 06:41:56 Asia/Jakarta] Error preparing statement: Unknown column 'bantuan_used' in 'SELECT'
+[04-Jul-2025 06:41:56 Asia/Jakarta] Points saved successfully: -5
+[04-Jul-2025 06:41:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/memf3243/public_html/kuis.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/memf3243/public_html/kuis.php on line 127
+[04-Jul-2025 06:42:04 Asia/Jakarta] Error preparing statement: Unknown column 'bantuan_used' in 'SELECT'
+[04-Jul-2025 06:42:51 Asia/Jakarta] Error preparing statement: Unknown column 'bantuan_used' in 'SELECT'
+[04-Jul-2025 06:42:57 Asia/Jakarta] Error preparing statement: Unknown column 'bantuan_used' in 'SELECT'
+[04-Jul-2025 06:42:57 Asia/Jakarta] Points saved successfully: 5
+[04-Jul-2025 06:42:57 Asia/Jakarta] Error preparing statement: Unknown column 'bantuan_used' in 'SELECT'
+[04-Jul-2025 06:43:00 Asia/Jakarta] Error preparing statement: Unknown column 'bantuan_used' in 'SELECT'
+[04-Jul-2025 06:43:00 Asia/Jakarta] Points saved successfully: 5
+[04-Jul-2025 06:43:09 Asia/Jakarta] Error preparing statement: Unknown column 'bantuan_used' in 'SELECT'
+[04-Jul-2025 06:44:56 Asia/Jakarta] Error preparing statement: Unknown column 'bantuan_used' in 'SELECT'
+[04-Jul-2025 06:45:06 Asia/Jakarta] Error preparing statement: Unknown column 'bantuan_used' in 'SELECT'
+[04-Jul-2025 06:45:11 Asia/Jakarta] Error preparing statement: Unknown column 'bantuan_used' in 'SELECT'
+[04-Jul-2025 06:45:11 Asia/Jakarta] Points saved successfully: 5
+[04-Jul-2025 06:45:11 Asia/Jakarta] Error preparing statement: Unknown column 'bantuan_used' in 'SELECT'
+[04-Jul-2025 06:45:13 Asia/Jakarta] Error preparing statement: Unknown column 'bantuan_used' in 'SELECT'
+[04-Jul-2025 06:45:13 Asia/Jakarta] Points saved successfully: 5
+[04-Jul-2025 06:45:20 Asia/Jakarta] Error preparing statement: Unknown column 'bantuan_used' in 'SELECT'
+[04-Jul-2025 06:52:16 Asia/Jakarta] Error preparing statement: Unknown column 'bantuan_used' in 'SELECT'
+[04-Jul-2025 08:45:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/memf3243/public_html/input_soal.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/memf3243/public_html/input_soal.php on line 59
+[04-Jul-2025 08:47:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/memf3243/public_html/input_soal.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/memf3243/public_html/input_soal.php on line 59
+[04-Jul-2025 09:11:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/memf3243/public_html/input_soal.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/memf3243/public_html/input_soal.php on line 59
+[04-Jul-2025 09:11:35 Asia/Jakarta] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/memf3243/public_html/input_soal.php on line 59
+[04-Jul-2025 09:13:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/memf3243/public_html/input_soal.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/memf3243/public_html/input_soal.php on line 59
+[04-Jul-2025 09:30:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/memf3243/public_html/game.php on line 399
+[04-Jul-2025 10:05:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/memf3243/public_html/game.php on line 383
+[04-Jul-2025 10:36:56 Asia/Jakarta] PHP Warning:  require_once(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/memf3243/public_html/cetak_hafalan.php on line 8
+[04-Jul-2025 10:36:56 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/memf3243/public_html/cetak_hafalan.php on line 8
+[04-Jul-2025 10:37:18 Asia/Jakarta] PHP Warning:  require_once(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/memf3243/public_html/cetak_hafalan.php on line 8
+[04-Jul-2025 10:37:18 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/memf3243/public_html/cetak_hafalan.php on line 8
+[04-Jul-2025 10:51:22 Asia/Jakarta] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/memf3243/public_html/cetak_hafalan_user.php on line 35
+[04-Jul-2025 10:51:22 Asia/Jakarta] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/memf3243/public_html/cetak_hafalan_user.php on line 35
+[04-Jul-2025 10:51:22 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/memf3243/public_html/cetak_hafalan_user.php on line 35
+[04-Jul-2025 10:51:27 Asia/Jakarta] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/memf3243/public_html/cetak_hafalan_user.php on line 35
+[04-Jul-2025 10:51:27 Asia/Jakarta] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/memf3243/public_html/cetak_hafalan_user.php on line 35
+[04-Jul-2025 10:51:27 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/memf3243/public_html/cetak_hafalan_user.php on line 35
+[04-Jul-2025 10:54:29 Asia/Jakarta] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/memf3243/public_html/cetak_hafalan_user.php on line 35
+[04-Jul-2025 10:54:29 Asia/Jakarta] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/memf3243/public_html/cetak_hafalan_user.php on line 35
+[04-Jul-2025 10:54:29 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/memf3243/public_html/cetak_hafalan_user.php on line 35
+[04-Jul-2025 10:54:33 Asia/Jakarta] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/memf3243/public_html/cetak_hafalan_user.php on line 35
+[04-Jul-2025 10:54:33 Asia/Jakarta] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/memf3243/public_html/cetak_hafalan_user.php on line 35
+[04-Jul-2025 10:54:33 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/memf3243/public_html/cetak_hafalan_user.php on line 35
+[04-Jul-2025 12:56:41 Asia/Jakarta] PHP Warning:  fopen(https://memoquran.my.id/background_capaian_hafalan_baru.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/memf3243/public_html/fpdf/fpdf.php on line 1274
+[04-Jul-2025 12:56:41 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://memoquran.my.id/background_capaian_hafalan_baru.png in /home/memf3243/public_html/fpdf/fpdf.php:267
+Stack trace:
+#0 /home/memf3243/public_html/fpdf/fpdf.php(1276): FPDF->Error('Can't open imag...')
+#1 /home/memf3243/public_html/fpdf/fpdf.php(890): FPDF->_parsepng('https://memoqur...')
+#2 /home/memf3243/public_html/cetak_hafalan_user.php(42): FPDF->Image('https://memoqur...', 0, 0, 210, 297, 'png')
+#3 {main}
+  thrown in /home/memf3243/public_html/fpdf/fpdf.php on line 267
+[04-Jul-2025 12:59:34 Asia/Jakarta] PHP Warning:  fopen(https://memoquran.my.id/background_capaian_hafalan_.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/memf3243/public_html/fpdf/fpdf.php on line 1274
+[04-Jul-2025 12:59:34 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://memoquran.my.id/background_capaian_hafalan_.jpg in /home/memf3243/public_html/fpdf/fpdf.php:267
+Stack trace:
+#0 /home/memf3243/public_html/fpdf/fpdf.php(1276): FPDF->Error('Can't open imag...')
+#1 /home/memf3243/public_html/fpdf/fpdf.php(890): FPDF->_parsepng('https://memoqur...')
+#2 /home/memf3243/public_html/cetak_hafalan_user.php(42): FPDF->Image('https://memoqur...', 0, 0, 210, 297, 'png')
+#3 {main}
+  thrown in /home/memf3243/public_html/fpdf/fpdf.php on line 267
+[04-Jul-2025 12:59:41 Asia/Jakarta] PHP Warning:  fopen(https://memoquran.my.id/background_capaian_hafalan_.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/memf3243/public_html/fpdf/fpdf.php on line 1274
+[04-Jul-2025 12:59:41 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://memoquran.my.id/background_capaian_hafalan_.jpg in /home/memf3243/public_html/fpdf/fpdf.php:267
+Stack trace:
+#0 /home/memf3243/public_html/fpdf/fpdf.php(1276): FPDF->Error('Can't open imag...')
+#1 /home/memf3243/public_html/fpdf/fpdf.php(890): FPDF->_parsepng('https://memoqur...')
+#2 /home/memf3243/public_html/cetak_hafalan_user.php(42): FPDF->Image('https://memoqur...', 0, 0, 210, 297, 'png')
+#3 {main}
+  thrown in /home/memf3243/public_html/fpdf/fpdf.php on line 267
+[04-Jul-2025 13:00:34 Asia/Jakarta] PHP Warning:  fopen(https://memoquran.my.id/background_capaian_hafalan_.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/memf3243/public_html/fpdf/fpdf.php on line 1274
+[04-Jul-2025 13:00:34 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: https://memoquran.my.id/background_capaian_hafalan_.jpg in /home/memf3243/public_html/fpdf/fpdf.php:267
+Stack trace:
+#0 /home/memf3243/public_html/fpdf/fpdf.php(1276): FPDF->Error('Can't open imag...')
+#1 /home/memf3243/public_html/fpdf/fpdf.php(890): FPDF->_parsepng('https://memoqur...')
+#2 /home/memf3243/public_html/cetak_hafalan_user.php(42): FPDF->Image('https://memoqur...', 0, 0, 210, 297, 'png')
+#3 {main}
+  thrown in /home/memf3243/public_html/fpdf/fpdf.php on line 267
+[04-Jul-2025 16:02:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'Id' (T_STRING) in /home/memf3243/public_html/admin_dashboard.php on line 24
+[04-Jul-2025 16:02:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'Id' (T_STRING) in /home/memf3243/public_html/admin_dashboard.php on line 24
+[04-Jul-2025 16:02:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'Id' (T_STRING) in /home/memf3243/public_html/admin_dashboard.php on line 24
+[04-Jul-2025 16:05:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'Id' (T_STRING) in /home/memf3243/public_html/admin_dashboard.php on line 27
+[04-Jul-2025 16:05:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'Id' (T_STRING) in /home/memf3243/public_html/admin_dashboard.php on line 27
+[08-Apr-2026 13:39:04 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/memf3243/public_html/db.php on line 7
+[09-May-2026 09:36:42 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/memf3243/public_html/db.php on line 7
+[13-May-2026 00:00:45 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/memf3243/public_html/db.php on line 7
+[30-May-2026 12:05:48 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/memf3243/public_html/db.php on line 7
+[09-Jun-2026 13:02:12 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/memf3243/public_html/db.php on line 7
